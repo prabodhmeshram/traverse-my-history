@@ -1,0 +1,18 @@
+.main-wrapper{
+    width: 200px;
+}
+
+.title{
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.container{
+    margin-top: 20px;
+    height: 40px;
+}
+
+.button-container{
+    text-align: center;
+}
