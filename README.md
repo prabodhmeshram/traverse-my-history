@@ -2,7 +2,7 @@
 Chrome extension to visualize your web history.
 
 
-#Todo Milestones
+# Todo Milestones
 
 * Add Button to show history
 * Capture link clicks by user
