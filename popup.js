@@ -1,3 +1,5 @@
 document.addEventListener('click' , () =>{
-    alert('Testing the Click Event');
+    chrome.tabs.query({ currentWindow: true, active: true }, function (tabs) {
+        console.log(tabs[0].url);
+    });
 });
