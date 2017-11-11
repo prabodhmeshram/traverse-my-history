@@ -1,0 +1,19 @@
+{
+  "name": "traverse-my-history",
+  "version": "1.0.0",
+  "description": "Traversing your navigation history",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabodhmeshram/traverse-my-history.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabodhmeshram/traverse-my-history/issues"
+  },
+  "homepage": "https://github.com/prabodhmeshram/traverse-my-history#readme"
+}
