@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/prabodhmeshram/traverse-my-history/issues"
   },
-  "homepage": "https://github.com/prabodhmeshram/traverse-my-history#readme"
+  "homepage": "https://github.com/prabodhmeshram/traverse-my-history#readme",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
 }
