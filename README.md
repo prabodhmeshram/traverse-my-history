@@ -1,4 +1,4 @@
-# traverse-my-history
+# Traverse My History
 Chrome extension to visualize your web history.
 
 
